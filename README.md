@@ -69,7 +69,7 @@ run label2text_main.py:
 python label2text_main.py --prompt [prompt] --num_of_word [number_of word] --topk [number_of_topk]
 ```
 
-`[prompt]` in `[0, 1, 2, 3]`  
+`[prompt]` in `[1, 2, 3]`  
 
 `[number_of word]` in `[30, 40, 50]`  
 

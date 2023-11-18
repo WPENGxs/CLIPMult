@@ -72,6 +72,7 @@ python label2text_main.py --prompt [prompt] --num_of_word [number_of word] --top
 `[prompt]` in `[1, 2, 3]`  
 
 `[number_of word]` in `[30, 40, 50]`  
+prompt_1 have `[30, 40, 50]`, prompt_2 and prompt_3 only have `[30]`
 
 `[number_of_topk]` in `[1, 2, 3]`
 

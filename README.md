@@ -12,7 +12,7 @@ This repository contains the PyTorch implementation and the data of the paper: *
 ## Current progress  
 
 - [x] Submit paper
-- [ ] Prepare code and push
+- [x] Prepare code and push
 
 ## Prerequisites
 

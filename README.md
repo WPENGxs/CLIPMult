@@ -7,7 +7,7 @@
 <img src="img/pytorch.png" width="10%"> [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 
 This repository contains the PyTorch implementation and the data of the paper: **CLIPMulti**.
-[AAA](), [BBB](), [CCC](), [DDD](), [EEE]().  ***Journal of King Saud University - Computer and Information Sciences***.[[paper]]().
+[AAA](), [BBB](), [CCC](), [DDD](), [EEE]().  ***Computer Speech & Language***.[[paper]]().
 
 ## Current progress  
 

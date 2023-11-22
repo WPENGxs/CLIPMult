@@ -1,0 +1,4 @@
+business	business, Finance, Revenue, Entrepreneurship
+politics	politics, Political campaign, Political activism, Political parties
+sports	sports, Sports industry, Sports, Championship
+technology	technology, Information technology, Cybersecurity, Computing

@@ -1,0 +1,4 @@
+business	business, finance, business investment, business administration
+politics	politics, political party, political ideology, politics
+sports	sports, Sports leagues, Sports equipment, Sport
+technology	technology, Information Technology, Software Engineering, Network Technology

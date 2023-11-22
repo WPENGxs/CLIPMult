@@ -1,0 +1,4 @@
+business	business, Finance, Revenue, Entrepreneurship
+politics	politics, Political party, Political ideology, Political system
+sports	sports, Sports industry, Sports psychology, Sports journalism
+technology	technology, Information technology, Digital transformation, IT infrastructure

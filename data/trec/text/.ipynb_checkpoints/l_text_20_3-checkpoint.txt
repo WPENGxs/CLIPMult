@@ -1,0 +1,6 @@
+ABBR	Abbreviation, Abbreviation, Acronym, Contraction
+ENTY	Entity, Identity, Identity, Substantiality
+DESC	Description and abstract concept, Comprehension, Interpretation, Expressing
+HUM	Human being, Homo floresiensis, Person, Homo luzonensis
+LOC	Location, Geolocation, Location, Geographic coordinates
+NUM	Numeric value, Numeric data, Numeric symbol, Numerical representation

@@ -1,0 +1,4 @@
+business	business, Diversified, Profit-driven
+politics	politics, Populist, Democratic
+sports	sports, Sportsmanlike, Athletic
+technology	technology, Engaging, Strategic

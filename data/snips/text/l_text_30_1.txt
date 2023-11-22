@@ -1,0 +1,7 @@
+AddToPlaylist	Add To Playlist, Playlist integration
+BookRestaurant	Book Restaurant, Restaurant table reservation
+GetWeather	Get Weather, Weather forecast website
+PlayMusic	Play Music, Music streaming service
+RateBook	Rate Book, Rate book rating scale
+SearchCreativeWork	Search Creative Work, Investigate creative pieces
+SearchScreeningEvent	Search Screening Event, Discover cinema screening

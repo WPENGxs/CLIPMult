@@ -1,0 +1,10 @@
+anger	anger, Enraged, Agitated, Provoked
+disgust	disgust, Disdainful, Repugnant, Displeasing
+fear	fear, Terrified, Apprehensive, Phobia-inducing
+guilt	guilt, Self-condemning, Self-accusing, Contrite
+joy	joy, Happy, Jovial, Lighthearted
+love	love, Romantic, Beloved, Heartfelt
+sadness	sadness, Tearful, Sorrowful, Despairing
+shame	shame, Repentant, Contrite, Disconcerted
+surprise	surprise, Shocked, Startled, Stunned
+noemo	no emotion, Indifferent, Unfeeling, Apathetic

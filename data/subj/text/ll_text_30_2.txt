@@ -1,0 +1,2 @@
+subjective	subjective, Subjective, Non-objective
+objective	objective, Evidence-based, Verifiable

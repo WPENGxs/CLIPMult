@@ -1,0 +1,10 @@
+Business & Finance	Business & Finance, financial management, Business & Finance, financial sector
+Computers & Internet	Computers & Internet, IT (Information Technology), cloud computing, network
+Education & Reference	Education & Reference, educational resources, Education & Reference, instructional resources
+Entertainment & Music	Entertainment & Music, Entertainment & Music, entertainment news, streaming platforms
+Family & Relationships	Family & Relationships, Family & Relationships, kinship, relatives
+Health	Health, Holistic health, Health, Good health
+Politics & Government	Politics & Government, Politics & Government, government institutions, public administration
+Science & Mathematics	Science & Mathematics, Science & Mathematics, mathematical modeling, mathematical principles
+Society & Culture	Society & Culture, cultural identity, cultural norms, Society & Culture
+Sports	Sports, Sports events, Sports industry, Sports

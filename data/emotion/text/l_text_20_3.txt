@@ -1,0 +1,10 @@
+anger	anger, anger, exasperation, rage
+disgust	disgust, distaste, repugnance, repugnance
+fear	fear, phobia, fear, apprehension
+guilt	guilt, self-condemnation, self-punishment, contrition
+joy	joy, cheerfulness, happiness, laughter
+love	love, love, romance, affection
+sadness	sadness, sadness, mournfulness, anguish
+shame	shame, self-condemnation, self-contempt, mortification
+surprise	surprise, astonishment, amazement, surprise
+noemo	no emotion, indifference, lack of feeling, emotionlessness

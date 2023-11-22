@@ -1,0 +1,12 @@
+crimeviolence	crime violence
+evac	danger, evacuation
+food	food
+infra	infrastructures, buildings
+med	medical assistance, medicine
+regimechange	regime change, rebellion
+search	search people
+shelter	shelter, survived
+terrorism	terrorism, terrorist activity
+utils	utilities
+water	water
+out-of-domain	out of domain

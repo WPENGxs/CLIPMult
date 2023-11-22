@@ -1,0 +1,10 @@
+Business & Finance	Business & Finance, Financial planning, Financial statement, Finance
+Computers & Internet	Computers & Internet, IT infrastructure, Web development, Network
+Education & Reference	Education & Reference, Educational technology, Curriculum, Education
+Entertainment & Music	Entertainment & Music, Entertainment news, Entertainment, Live shows
+Family & Relationships	Family & Relationships, Family values, Blended family, Kinship
+Health	Health, Health promotion, Health education, Health
+Politics & Government	Politics & Government, Government, Public administration, Lobbying
+Science & Mathematics	Science & Mathematics, Mathematics, Scientific method, Geometry
+Society & Culture	Society & Culture, Cultural identity, Cultural diversity, Language
+Sports	Sports, Sports equipment, Sports industry, Sports

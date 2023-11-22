@@ -1,0 +1,12 @@
+crimeviolence	crime violence, Criminalistic, Terroristic
+evac	danger and evacuation, Evacuation plan, Emergency
+food	food, Nourishing, Gastronomic
+infra	infrastructures, Structural, Integrated
+med	medical assistance, Medical, Lifesaving
+regimechange	regime change, Regime transformation, Regime reformation
+search	search people, Apprehend, Retrieve
+shelter	shelter, Sheltered, Refuge
+terrorism	terrorism, Militant, Terrorist
+utils	utilities, Utility providers, Plumbing
+water	water, H2O, Hydrating
+out-of-domain	out of domain, Not within purview, Not within area

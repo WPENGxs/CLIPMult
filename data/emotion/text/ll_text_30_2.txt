@@ -1,0 +1,10 @@
+anger	anger, Anger, Enraged
+disgust	disgust, Displeasure, Distaste
+fear	fear, Phobia, Consternation
+guilt	guilt, Self-condemnation, Self-condemnation
+joy	joy, Cheerfulness, Happiness
+love	love, Love, Romance
+sadness	sadness, Tearful, Sadness
+shame	shame, Self-condemnation, Mortification
+surprise	surprise, Astonishment, Amazement
+noemo	no emotion, Indifferent, Unfeeling

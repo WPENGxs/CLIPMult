@@ -1,0 +1,6 @@
+ABBR	Abbreviation
+ENTY	Entity
+DESC	Description and abstract concept
+HUM	Human being
+LOC	Location
+NUM	Numeric value

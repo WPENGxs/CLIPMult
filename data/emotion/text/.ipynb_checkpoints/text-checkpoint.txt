@@ -1,0 +1,10 @@
+anger	angry, mad
+disgust	disgusts, dislike
+fear	fear, scared
+guilt	guilt
+joy	joy, happy
+love	love, intimacy
+sadness	sadness, grief
+shame	shames, regret
+surprise	surprised
+noemo	no emotion

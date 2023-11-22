@@ -1,0 +1,7 @@
+AddToPlaylist	Add To Playlist, add favorites to playlist
+BookRestaurant	Book Restaurant, reserve a table at a restaurant
+GetWeather	Get Weather, obtain weather information
+PlayMusic	Play Music, Play Music
+RateBook	Rate Book, Rate Book
+SearchCreativeWork	Search Creative Work, search for original creations
+SearchScreeningEvent	Search Screening Event, hunt for screening session

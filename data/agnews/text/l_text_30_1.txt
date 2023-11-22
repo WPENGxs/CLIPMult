@@ -1,0 +1,4 @@
+business	business, Finance
+politics	politics, Political party
+sports	sports, Sports industry
+technology	technology, Information technology

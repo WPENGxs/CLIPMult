@@ -1,0 +1,4 @@
+business	business, Economy, Entrepreneurship, Investment
+politics	politics, Political parties, Political ideology, Political system
+sports	sports, Sports events, Sports industry, Sports psychology
+technology	technology, Computing, Internet of Things, Cloud computing

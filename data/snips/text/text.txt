@@ -1,0 +1,7 @@
+AddToPlaylist	add to playlists
+BookRestaurant	make a reservation for restaurant
+GetWeather	get weather
+PlayMusic	play music
+RateBook	rate a book
+SearchCreativeWork	find creative works
+SearchScreeningEvent	watch movie screening

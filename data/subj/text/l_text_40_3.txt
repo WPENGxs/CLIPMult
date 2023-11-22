@@ -1,0 +1,2 @@
+subjective	subjective, based on personal values, Subjective, self-referential
+objective	objective, corroborated, substantiated, evidence-based

@@ -1,0 +1,7 @@
+AddToPlaylist	Add To Playlist, Playlist integration, Playlist expansion, Playlist modification
+BookRestaurant	Book Restaurant, Restaurant table reservation, Restaurant reservation, Restaurant table booking
+GetWeather	Get Weather, Weather forecast website, Weather outlook, Weather prediction
+PlayMusic	Play Music, Music streaming service, Music player, Music app
+RateBook	Rate Book, Rate book rating scale, Rate plot, Rate book
+SearchCreativeWork	Search Creative Work, Investigate creative pieces, Search for original creations, Search for creative projects
+SearchScreeningEvent	Search Screening Event, Discover cinema screening, Search for film screening, Find screening event

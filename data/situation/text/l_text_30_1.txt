@@ -1,0 +1,12 @@
+crimeviolence	crime violence, Violent crime
+evac	danger and evacuation, Emergency
+food	food, Foodstuff
+infra	infrastructures, Transport infrastructure
+med	medical assistance, Medical assistance programs
+regimechange	regime change, Regime reorganization
+search	search people, Person search assistance
+shelter	shelter, Shelter provision
+terrorism	terrorism, Terrorist insurgency
+utils	utilities, Utility companies
+water	water, Drinking water
+out-of-domain	out of domain, Not associated

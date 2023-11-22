@@ -1,0 +1,2 @@
+subjective	subjective, Decided by personal values, Subjective experience
+objective	objective, Fact-based, Unbiased

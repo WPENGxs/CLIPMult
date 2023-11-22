@@ -1,0 +1,6 @@
+ABBR	Abbreviation, Abbreviated, Acronym, Acronymic
+ENTY	Entity, Embodiment, Identity, Entityhood
+DESC	Description and abstract concept, Interpretation, Narration, Conceptualization
+HUM	Human being, Person, Homo neanderthalensis, Homo habilis
+LOC	Location, Geolocation, Place, Area
+NUM	Numeric value, numeric system, prime number, irrational number

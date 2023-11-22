@@ -1,0 +1,4 @@
+business	Business, Finance, Dollars
+politics	Politics, Government, Power
+sports	Sports, Basketball, Football
+technology	Technology, Internet, Innovation

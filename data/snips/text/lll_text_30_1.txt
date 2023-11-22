@@ -1,0 +1,7 @@
+AddToPlaylist	Add To Playlist, Incorporate
+BookRestaurant	Book Restaurant, Restaurant Reservation
+GetWeather	Get Weather, Weather Forecasters
+PlayMusic	Play Music, Playlist
+RateBook	Rate Book, Rating
+SearchCreativeWork	Search Creative Work, Find
+SearchScreeningEvent	Search Screening Event, Screening

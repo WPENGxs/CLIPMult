@@ -1,0 +1,10 @@
+Business & Finance	Business & Finance, Financial, Entrepreneurship
+Computers & Internet	Computers & Internet, Networked, Web-based
+Education & Reference	Education & Reference, Learning-focused, Academic
+Entertainment & Music	Entertainment & Music, Entertaining, Rhythmic
+Family & Relationships	Family & Relationships, Empathetic, Understanding
+Health	Health, Wellness, Preventive
+Politics & Government	Politics & Government, Lobbying, Legislative
+Science & Mathematics	Science & Mathematics, Mathematical modeling, Mathematical reasoning
+Society & Culture	Society & Culture, Pluralistic, Intercultural
+Sports	Sports, Sportsmanlike, Sporting

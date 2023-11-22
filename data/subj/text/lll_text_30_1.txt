@@ -1,0 +1,2 @@
+subjective	subjective, Subjective
+objective	objective, Evidence-based

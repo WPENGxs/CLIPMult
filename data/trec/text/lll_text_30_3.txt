@@ -1,0 +1,6 @@
+ABBR	Abbreviation, Abbreviation, abbreviated, acronyms
+ENTY	Entity, entity instance, entity type, identifiable
+DESC	Description and abstract concept, in-depth, imaginative, imaginative
+HUM	Human being, Human being: Individual, person, human
+LOC	Location, geographic location, specific location, physical location
+NUM	Numeric value, numeric conversion, numerical sequence, numeric operations

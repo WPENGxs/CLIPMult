@@ -1,0 +1,2 @@
+subjective	subjective, Decided by personal values
+objective	objective, Fact-based

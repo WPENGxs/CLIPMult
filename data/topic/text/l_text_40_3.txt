@@ -1,0 +1,10 @@
+Business & Finance	Business & Finance, financial literacy, financial planning, financial management
+Computers & Internet	Computers & Internet, internet services, IT (Information Technology), internet infrastructure
+Education & Reference	Education & Reference, educational curriculum, educational policies, educational leadership
+Entertainment & Music	Entertainment & Music, entertainment events, entertainment venues, Entertainment & Music
+Family & Relationships	Family & Relationships, Family & Relationships, family relationships, family roles
+Health	Health, Holistic health, Health promotion, Health education
+Politics & Government	Politics & Government, Politics & Government, government institutions, public administration
+Science & Mathematics	Science & Mathematics, Mathematical Induction, Mathematical Modeling, Mathematical Operations
+Society & Culture	Society & Culture, Cultural Identity, Cultural Exchange, Language
+Sports	Sports, Sports events, Sports equipment, Sports industry

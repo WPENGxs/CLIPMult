@@ -1,0 +1,10 @@
+anger	anger, Enraged
+disgust	disgust, Disdainful
+fear	fear, Terrified
+guilt	guilt, Self-condemning
+joy	joy, Happy
+love	love, Romantic
+sadness	sadness, Tearful
+shame	shame, Repentant
+surprise	surprise, Shocked
+noemo	no emotion, Indifferent

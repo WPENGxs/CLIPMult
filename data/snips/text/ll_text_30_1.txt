@@ -1,0 +1,7 @@
+AddToPlaylist	Add To Playlist, Playlist management
+BookRestaurant	Book Restaurant, Dining experience
+GetWeather	Get Weather, Weather forecasters
+PlayMusic	Play Music, Music player
+RateBook	Rate Book, Rating
+SearchCreativeWork	Search Creative Work, Search
+SearchScreeningEvent	Search Screening Event, Screening room

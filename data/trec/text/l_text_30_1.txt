@@ -1,0 +1,6 @@
+ABBR	Abbreviation, Abbreviature
+ENTY	Entity, Non-living entity
+DESC	Description and abstract concept, Interpretation
+HUM	Human being, Humanoid
+LOC	Location, Geographic location
+NUM	Numeric value, Numerical digit

@@ -24,7 +24,7 @@ def main():
         else:
             text_str = ''
             if args.prompt == 1:
-               text_str += 'l'
+                text_str += 'l'
             elif args.prompt == 2:
                 text_str += 'll'
             elif args.prompt == 3:

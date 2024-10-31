@@ -2,17 +2,18 @@
  * @Author: Peng Wang
  * 
 -->
-# CLIPMulti
+# CLIPMulti: Explore the performance of multimodal enhanced CLIP for zero-shot text classification
 
 <img src="img/pytorch.png" width="10%"> [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 
-This repository contains the PyTorch implementation and the data of the paper: **CLIPMulti**.
-[AAA](), [BBB](), [CCC](), [DDD](), [EEE]().  ***Computer Speech & Language***.[[paper]]().
+This repository contains the PyTorch implementation and the data of the paper: *"CLIPMulti: Explore the performance of multimodal enhanced CLIP for zero-shot text classification,"*
+Peng Wang, Dagang Li, Xuesi Hu, Yongmei Wang*, Youhua Zhang, ***Computer Speech & Language***. [[paper]()].
 
 ## Current progress  
 
-- [x] Submit paper
-- [x] Prepare code and push
+- [x] This work is accepted by *Computer Speech & Language*.
+- [x] Submit paper.
+- [x] Prepare code and push.
 
 ## Prerequisites
 
@@ -76,7 +77,7 @@ prompt_1 have `[30, 40, 50]`, prompt_2 and prompt_3 only have `[30]`
 
 `[number_of_topk]` in `[1, 2, 3]`
 
-<!-- ## Our paper
+<!-- ## Cite
 <pre>
 @inproceedings{qin-etal-2023-cliptext,
     title = "{CLIPT}ext: A New Paradigm for Zero-shot Text Classification",
